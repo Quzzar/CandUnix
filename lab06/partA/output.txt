@@ -1,0 +1,14 @@
+gcc -c main.c -Wall
+gcc -c source.c -Wall
+gcc main.o source.o
+./a.out
+abc
+Invalid input! Must input a positive double.
+-5.5
+Invalid input! Must input a positive double.
+def
+Invalid input! Must input a positive double.
+-3
+Invalid input! Must input a positive double.
+5.5
+The radius is 5.50, the sphere volume is 696.91, and the surface area is 380.13.
