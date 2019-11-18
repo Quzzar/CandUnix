@@ -1,0 +1,23 @@
+./run
+You will first be inputting a max integer then a test integer.
+Please input an int:
+abc
+Invalid input! Must input an int.
+def
+Invalid input! Must input an int.
+g
+Invalid input! Must input an int.
+50
+Please input an int:
+h
+Invalid input! Must input an int.
+25
+The input test value 25 was not changed.
+
+./run
+You will first be inputting a max integer then a test integer.
+Please input an int:
+12
+Please input an int:
+12
+The input test value 12 was not changed.

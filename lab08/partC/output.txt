@@ -1,0 +1,10 @@
+./run
+Please input a positive float as a price per gallon of gas:
+-3.5
+Invalid input! Must input a positive float.
+def
+Invalid input! Must input a positive float.
+4.05
+Please input a positive int as the tank capacity:
+12
+Price Per Gallon: $4.05 | Tank Capacity: 12 Gallons | Cost to Fill Tank: $48.60
